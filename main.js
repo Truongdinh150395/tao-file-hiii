@@ -19,5 +19,5 @@ let sinhvienManager  = new SinhvienManager();
         let sinhvien = new Sinhvien(id,name,date,lop,diem,img);
         sinhvienManager.addSinhvien(sinhvien);
         showAll();
-        document.write(hi);
+        document.write("xin chào mọi người");
     }
